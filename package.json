@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=12"
+    "node": "^16.15.0"
 },
   "dependencies": {
     "@sweetalert/with-react": "^0.1.1",
