@@ -1,0 +1,17 @@
+.navbar-top{
+    background-color: red !important;
+}
+.navbar-main{
+    background-color: black !important;
+}
+.carousel-control {
+    background-color: black !important;
+
+}
+.btn{
+    color: black !important;
+}
+.img_flowwer{
+    height: 700px !important;
+    width: 100% !important;
+}
