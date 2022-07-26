@@ -97,7 +97,7 @@ function Dashboard() {
                   <Th>Profession</Th>
                   <Th>Diesease</Th>
                   <Th>MedcineName</Th>
-                  <Th>MedicineMg</Th>
+                  {/* <Th>MedicineMg</Th> */}
                   <Th>CNIC</Th>
                   <Th>Income</Th>
                   <Th>Critical</Th>
